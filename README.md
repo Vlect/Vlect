@@ -1,8 +1,5 @@
 # Hey there! Keyboards sigh & screens facepalm when I start coding! 👋🚀
 
-![Just a coder](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
-
 Allow me to introduce myself: I am **Vlect** - think “elect” but with some extra *va-va-voom* thanks to the "V"!
 
 I'm a software developer whose coding journey is fresher than a supermarket avocado 🥑 (2 years, baby!).
@@ -21,17 +18,12 @@ I'm a software developer whose coding journey is fresher than a supermarket avoc
 ## 🌱 Cultivating New Skills
 I'm suiting up for **Rust** and **OCaml** – the coding equivalent of going from a tricycle to a rocket. 🚀
 
-![Powering Up](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
-
 Rust's like a fortress; OCaml's like sipping wisdom in code. This ain't the wild west of JavaScript, folks!
 
 
 
 ## ⚠️ Fair Warning
 Expert? Ha! Think of me as a squirrel in a computer lab – frantically running around, collecting knowledge-nuts. 🌰💡
-
-![Silly dance](https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif)
-
 I might not know where all the keys are, but darn it, I’ll find the 'any' key one of these days!
 
 ## 📬 Pigeon Post, Telegram, or Smoke Signals?
