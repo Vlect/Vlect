@@ -1,4 +1,4 @@
-# Hey there, Code Slingers! 🤠🚀
+# Hey there! Keyboards sigh & screens facepalm when I start coding! 👋🚀
 
 ![Just a coder](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
