@@ -14,17 +14,22 @@ I'm a software developer whose coding journey is fresher than a supermarket avoc
 * AWS - Where acronyms go to party: APIGateway, S3, OMG, BBQ!
 * JavaScript - The duct tape of the coding world. Great for a quick fix, but you wouldn’t build a house with it, would you? 🙃
 
-
 ## 🌱 Cultivating New Skills
 I'm suiting up for **Rust** and **OCaml** – the coding equivalent of going from a tricycle to a rocket. 🚀
 
 Rust's like a fortress; OCaml's like sipping wisdom in code. This ain't the wild west of JavaScript, folks!
 
-
-
 ## ⚠️ Fair Warning
 Expert? Ha! Think of me as a squirrel in a computer lab – frantically running around, collecting knowledge-nuts. 🌰💡
 I might not know where all the keys are, but darn it, I’ll find the 'any' key one of these days!
+
+## 🚀 Learning by Doing: Embrace the Shit-Shoveling Method
+
+They say video tutorials are like soup, but hands-on coding is a buffet! 🍲💻
+
+I've learned that becoming a better developer means diving into coding challenges, rolling up our sleeves, and embracing the "shit-shoveling method." Sure, tutorials have their place, but nothing beats the thrill of getting our hands dirty with real projects.
+
+So, let's dig through bugs, debug like detectives, and celebrate those "Eureka!" moments. Together, we'll conquer new technologies, build amazing projects, and unleash incredible code. Time to make our keyboards tremble and screens beg for mercy!
 
 ## 📬 Pigeon Post, Telegram, or Smoke Signals?
 Got a wild idea or just want to exchange goofy memes? Let’s be silly together! But if you prefer modern tech, you can also find me here:
