@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hey there, Code Slingers! 🤠🚀
 
-<!--
-**Vlect/Vlect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Just a coder](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Allow me to introduce myself: I am **Vlect** - think “elect” but with some extra *va-va-voom* thanks to the "V"!
+
+I'm a software developer whose coding journey is fresher than a supermarket avocado 🥑 (2 years, baby!).
+
+## 🧰 What’s in my Toolbox?
+* React.js - Because if I have to deal with JavaScript, at least my DOM can be snappy.
+* Node.js - JavaScript again, but this time it’s personal (and server-side).
+* TypeScript - JavaScript’s more responsible sibling. It actually plans ahead.
+* Nest.js & Next.js - Like Nestlé but for code, and way less sweet.
+* PrismaORM - Where my data struts down the catwalk.
+* PostgreSQL & MySQL - Slinging SQL like I’m in a Wild West shootout, but with tables instead of revolvers.
+* AWS - Where acronyms go to party: APIGateway, S3, OMG, BBQ!
+* JavaScript - The duct tape of the coding world. Great for a quick fix, but you wouldn’t build a house with it, would you? 🙃
+
+
+## 🌱 Cultivating New Skills
+I'm suiting up for **Rust** and **OCaml** – the coding equivalent of going from a tricycle to a rocket. 🚀
+
+![Powering Up](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+
+Rust's like a fortress; OCaml's like sipping wisdom in code. This ain't the wild west of JavaScript, folks!
+
+
+
+## ⚠️ Fair Warning
+Expert? Ha! Think of me as a squirrel in a computer lab – frantically running around, collecting knowledge-nuts. 🌰💡
+
+![Silly dance](https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif)
+
+I might not know where all the keys are, but darn it, I’ll find the 'any' key one of these days!
+
+## 📬 Pigeon Post, Telegram, or Smoke Signals?
+Got a wild idea or just want to exchange goofy memes? Let’s be silly together! But if you prefer modern tech, you can also find me here:
+
+[LinkedIn](https://www.linkedin.com/in/juan-manuel-fernandez-7a371b1b8)
