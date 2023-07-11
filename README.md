@@ -31,7 +31,7 @@ I've learned that becoming a better developer means diving into coding challenge
 
 So, let's dig through bugs, debug like detectives, and celebrate those "Eureka!" moments. Together, we'll conquer new technologies, build amazing projects, and unleash incredible code. Time to make our keyboards tremble and screens beg for mercy!
 
-
+## Contact me
 Got a wild idea or just want to exchange goofy memes? Let’s be silly together! But if you prefer modern tech, you can also find me here:
 
 [LinkedIn](https://www.linkedin.com/in/juan-manuel-fernandez-7a371b1b8)
