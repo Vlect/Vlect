@@ -1,8 +1,4 @@
-# Hey there! Keyboards sigh & screens facepalm when I start coding! 👋🚀
-
-Allow me to introduce myself: I am **Vlect** - think “elect” but with some extra *va-va-voom* thanks to the "V"!
-
-I'm a software developer whose coding journey is fresher than a supermarket avocado 🥑 (2 years, baby!).
+# Hey there!
 
 ## 🧰 What’s in my Toolbox?
 * React.js - Because if I have to deal with JavaScript, at least my DOM can be snappy.
