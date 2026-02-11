@@ -15,10 +15,6 @@ I'm suiting up for **Rust** and **OCaml** – the coding equivalent of going fro
 
 Rust's like a fortress; OCaml's like sipping wisdom in code. This ain't the wild west of JavaScript, folks!
 
-## ⚠️ Fair Warning
-Expert? Ha! Think of me as a squirrel in a computer lab – frantically running around, collecting knowledge-nuts. 🌰💡
-I might not know where all the keys are, but darn it, I’ll find the 'any' key one of these days!
-
 ## 🚀 Learning by Doing: Embrace the Shit-Shoveling Method
 
 They say video tutorials are like soup, but hands-on coding is a buffet! 🍲💻
