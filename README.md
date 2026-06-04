@@ -10,11 +10,6 @@
 * AWS - Where acronyms go to party: APIGateway, S3, OMG, BBQ!
 * JavaScript - The duct tape of the coding world. Great for a quick fix, but you wouldn’t build a house with it, would you? 🙃
 
-## 🌱 Cultivating New Skills
-I'm suiting up for **Rust** and **OCaml** – the coding equivalent of going from a tricycle to a rocket. 🚀
-
-Rust's like a fortress; OCaml's like sipping wisdom in code. This ain't the wild west of JavaScript, folks!
-
 ## 🚀 Learning by Doing: Embrace the Shit-Shoveling Method
 
 They say video tutorials are like soup, but hands-on coding is a buffet! 🍲💻
